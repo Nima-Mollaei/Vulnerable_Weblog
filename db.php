@@ -1,8 +1,8 @@
 <?php
 $db_servername = "localhost"; // Replace with your MySQL server hostname or IP address
-$db_username = "upvex"; // Replace with your MySQL username
-$db_password = "123"; // Replace with your MySQL password
-$db_database = "weblog"; // Replace with the name of your MySQL database
+$db_username = ""; // Replace with your MySQL username
+$db_password = ""; // Replace with your MySQL password
+$db_database = ""; // Replace with the name of your MySQL database
 $backupPath = "/var/www/html/admin/backups/";
 
 // Create a connection
